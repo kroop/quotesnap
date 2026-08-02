@@ -28,11 +28,11 @@ Thanks for buying QuoteSnap Pro!
 Logo, no watermark, templates, client save. Lifetime license.
 ```
 
-6. Set env after deploy:
+6. Live Gumroad product:
 
 ```env
-NEXT_PUBLIC_GUMROAD_URL=https://yours.gumroad.com/l/xxxxx
-GUMROAD_PRODUCT_ID=   # from verify error or Gumroad if needed
+NEXT_PUBLIC_GUMROAD_URL=https://kroop23.gumroad.com/l/zmttr
+GUMROAD_PRODUCT_ID=   # set after first real-key verify if API requires it
 ```
 
 ## Day 1 — Deploy

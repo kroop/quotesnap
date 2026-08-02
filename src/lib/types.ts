@@ -53,9 +53,10 @@ export const CURRENCIES = [
 
 export const PRO_PRICE_USD = 39;
 export const PRO_PRICE_LABEL = "$39";
-/** Set NEXT_PUBLIC_GUMROAD_URL after you create the Gumroad product */
+/** Live Gumroad product — override with NEXT_PUBLIC_GUMROAD_URL if needed */
 export const GUMROAD_URL =
-  process.env.NEXT_PUBLIC_GUMROAD_URL || "https://gumroad.com";
+  process.env.NEXT_PUBLIC_GUMROAD_URL ||
+  "https://kroop23.gumroad.com/l/zmttr";
 
 export function createEmptyQuote(): Quote {
   const today = new Date();
