@@ -9,7 +9,12 @@ npm run dev
 
 - Landing: http://localhost:3000  
 - App: http://localhost:3000/app  
-- Demo Pro: `QUOTESNAP-PRO-DEMO-0001`
+- Demo Pro: `QUOTESNAP-PRO-DEMO-0001`  
+
+**Production:**
+- Landing: https://quotesnap.vercel.app/
+- App: https://quotesnap.vercel.app/app
+- Gumroad: https://kroop23.gumroad.com/l/zmttr
 
 ## Day 1 — Sell
 

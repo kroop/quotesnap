@@ -4,11 +4,18 @@ Professional **quotes & proposals** → PDF in ~60 seconds. Free forever in the 
 
 Not accounting software. Built so freelancers can **close deals**, not close the books.
 
-## Live setup
+## Live
 
+| | URL |
+|--|-----|
+| **Landing** | https://quotesnap.vercel.app/ |
+| **App** | https://quotesnap.vercel.app/app |
+| **Buy Pro** | https://kroop23.gumroad.com/l/zmttr |
+
+Also: https://quotesnap-kroop.vercel.app/  
 See [BUSINESS.md](./BUSINESS.md) and [LAUNCH.md](./LAUNCH.md).
 
-## Quick start
+## Quick start (local)
 
 ```bash
 npm install
